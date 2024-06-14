@@ -17,7 +17,7 @@ Useful commands below✅:
 # Signup for a free redis account👾
 You can sign up here: https://redis.com/try-free/
 
-# Update your settings.py and add-ruls-to-redis.py⚙️:
+# Update your "settings.py" and "add-uls-to-redis.py"⚙️:
 Update the REDIS_URL in settings.py with redisClient in add-ruls-to-redis.py to contain your redis details.
 It should look something like the following:
 `REDIS_URL = 'redis://<username>:<password>@<redis-connection-url>:<redis-port-number>'`
