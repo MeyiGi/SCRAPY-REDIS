@@ -19,8 +19,8 @@ You can sign up here: https://redis.com/try-free/
 
 # Update your "settings.py" and "add-uls-to-redis.py"⚙️:
 Update the REDIS_URL in settings.py with redisClient in add-ruls-to-redis.py to contain your redis details.
-It should look something like the following:< br / >
-`REDIS_URL = 'redis://<username>:<password>@<redis-connection-url>:<redis-port-number>'`< br / >
+It should look something like the following:  
+`REDIS_URL = 'redis://<username>:<password>@<redis-connection-url>:<redis-port-number>'`  
 `redisClient = redis.from_url('redis://<username>:<password>@<redis-connection-url>:<redis-port-number>')`
 
 ## Screenshots 🤳
