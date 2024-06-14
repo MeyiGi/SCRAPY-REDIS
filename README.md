@@ -1,6 +1,4 @@
 # Python Scrapy - Intro to scraping at scale
-In this repo we have the code that we use in our Youtube video.
-Feel free to clone it and play around with it
 
 # Getting Started - Cheat Sheet
 Useful commands below:
