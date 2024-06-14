@@ -24,7 +24,7 @@ It should look something like the following:
 `redisClient = redis.from_url('redis://<username>:<password>@<redis-connection-url>:<redis-port-number>')`
 
 
-![Снимок экрана 2024-06-14 094627](https://github.com/MeyiGi/SCRAPY-REDIS/assets/130828110/928e6739-93af-47a6-a526-c566e3517479)![Снимок экрана 2024-06-14 101704](https://github.com/MeyiGi/SCRAPY-REDIS/assets/130828110/da663a6a-043d-43a6-a058-241a7fcf730f)
+![Снимок экрана 2024-06-14 094627](https://github.com/MeyiGi/SCRAPY-REDIS/assets/130828110/928e6739-93af-47a6-a526-c566e3517479)  =====> ![Снимок экрана 2024-06-14 101704](https://github.com/MeyiGi/SCRAPY-REDIS/assets/130828110/da663a6a-043d-43a6-a058-241a7fcf730f)
 
 ![Снимок экрана 2024-06-14 101807](https://github.com/MeyiGi/SCRAPY-REDIS/assets/130828110/7d85d006-023d-40d2-b2ea-72022516a269)
 
