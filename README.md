@@ -8,11 +8,11 @@ Useful commands below✅:
 4. Install Scrapy using pip: `pip install scrapy==2.7.0` 
 5. Install Redis using pip: `pip install scrapy-redis`
 6. Install Twisted using pip: `pip install twisted==21.2.0`
-7. Add the urls to redis: `python3 add-urls-to-redis.py`
-8. Go to the main folder: `cd scrapy-redis`
+7. Go to the main folder: `cd scrapy-redis`
+8. Add the urls to redis: `python3 add-urls-to-redis.py`
 9. Running the scrapy project: `scrapy crawl scrape_quotes_worker` 
 
-Be sure! Install only this versions!
+❗Be sure! Install only this versions!
 
 # Signup for a free redis account👾
 You can sign up here: https://redis.com/try-free/
